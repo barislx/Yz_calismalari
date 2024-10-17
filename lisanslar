@@ -1,0 +1,25 @@
+Apache Lisansı, Apache Software Foundation tarafından geliştirilen ve dağıtılan açık kaynak yazılım lisansıdır. İlk versiyonu 2004'te yayımlanan bu lisans, özellikle yazılım projeleri için esneklik ve özgürlük sağlamak amacıyla tasarlanmıştır.
+
+GNU Genel Kamu Lisansı (GPL), Free Software Foundation (FSF) tarafından geliştirilen açık kaynak bir yazılım lisansıdır. İlk versiyonu 1989'da yayımlanan GPL, yazılımların özgürce kullanılmasını, dağıtılmasını ve değiştirilmesini sağlamak amacıyla tasarlanmıştır. GPL'nin temel amacı, kullanıcıların yazılım üzerinde tam kontrol sahibi olmasını sağlamaktır.
+
+MIT Lisansı, Massachusetts Institute of Technology (MIT) tarafından geliştirilen, yaygın olarak kullanılan bir açık kaynak yazılım lisansıdır. 1988'de yayımlanan bu lisans, basitliği ve esnekliği sayesinde birçok yazılım projesinde tercih edilmektedir.
+
+BSD 2-Clause Simplified Lisansı, Berkeley Software Distribution (BSD) lisanslarının en yaygın ve basit versiyonlarından biridir. Bu lisans, 1980'lerde geliştirilmiş olup, özellikle yazılımın açık kaynak olarak dağıtımını teşvik etmek amacıyla tasarlanmıştır. "Simplified" olarak adlandırılmasının nedeni, gereksinimlerinin ve şartlarının oldukça az olmasıdır.
+
+BSD 3-Clause Lisansı, Berkeley Software Distribution (BSD) lisansının daha yeni ve gözden geçirilmiş bir versiyonudur. 2005 yılında yayımlanan bu lisans, önceki BSD lisanslarına göre bazı ek koşullar ve kısıtlamalar getirerek, yazılımın açık kaynak olarak dağıtımını kolaylaştırırken geliştiricilerin haklarını korumayı amaçlamaktadır.
+
+Boost Software Lisansı 1.0, Boost C++ Kütüphanesi projesi tarafından geliştirilen açık kaynak bir yazılım lisansıdır. 2003 yılında yayımlanan bu lisans, C++ geliştiricilerine yönelik olup, basitliği ve esnekliği ile dikkat çekmektedir.
+
+Creative Commons Zero (CC0) v1.0 Universal, bir eser üzerindeki tüm telif haklarının feragat edilmesini sağlayan bir açık lisans türüdür. 2009 yılında Creative Commons tarafından yayımlanmıştır ve özellikle eserlerin herkes tarafından özgürce kullanılabilmesini sağlamak amacıyla tasarlanmıştır.
+
+Eclipse Public License (EPL) 2.0, Eclipse Foundation tarafından geliştirilmiş ve yaygın olarak kullanılan bir açık kaynak yazılım lisansıdır. 2017 yılında yayımlanan bu versiyon, önceki EPL 1.0 lisansını güncelleyerek daha fazla esneklik ve açıklık sağlamayı amaçlamaktadır.
+
+GNU Affero Genel Kamu Lisansı (AGPL) v3.0, Free Software Foundation (FSF) tarafından geliştirilen bir açık kaynak lisansıdır. 2007 yılında yayımlanan bu lisans, özellikle ağ tabanlı yazılımlar için tasarlanmıştır ve kullanıcıların yazılımın kaynak koduna erişimini güvence altına alır
+
+GNU Genel Kamu Lisansı (GPL) v2.0, Free Software Foundation (FSF) tarafından 1991 yılında yayımlanan bir açık kaynak yazılım lisansıdır. Bu lisans, yazılımın özgürce kullanılmasını, dağıtılmasını ve değiştirilmesini sağlamak amacıyla tasarlanmıştır ve özellikle yazılım özgürlüğünü koruma konusunda katı şartlar getirmektedir.
+
+GNU Lesser Genel Kamu Lisansı (LGPL) v2.1, Free Software Foundation (FSF) tarafından 1999 yılında yayımlanan bir açık kaynak yazılım lisansıdır. LGPL, genellikle kütüphaneler ve diğer yazılım bileşenleri için kullanılır ve yazılım geliştiricilerine, kütüphaneleri ve modülleri daha esnek bir şekilde kullanma imkanı tanır.
+
+Mozilla Kamu Lisansı (MPL) 2.0, Mozilla Foundation tarafından geliştirilmiş ve 2012 yılında yayımlanmış bir açık kaynak yazılım lisansıdır. MPL, yazılımların açık kaynak olarak dağıtılmasını sağlarken, kullanıcıların ve geliştiricilerin haklarını korumayı amaçlar.
+
+The Unlicense, yazılım geliştiricilerine eserlerini kamu malı (public domain) haline getirme imkanı sunan bir açık kaynak lisansıdır. 2009 yılında yayımlanan bu lisans, eser sahiplerinin yazılımlarını herhangi bir sınırlama olmaksızın başkalarının kullanımına sunmalarını sağlar.
